@@ -1,1 +1,8 @@
-anh thích em nhiều
+{
+  "success": 200,
+  "data": {
+    "id": "7053832422613533698",
+    "uniqueID": "cattuong.ta",
+    "msg": "Cấu hình thành công!"
+  }
+}
